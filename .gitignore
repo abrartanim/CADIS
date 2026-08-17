@@ -55,6 +55,11 @@ dmypy.json
 .env
 .env.local
 *.local
+.env_1
+.env.example
+
+
+.setupV1.md
 
 # Logs
 *.log
