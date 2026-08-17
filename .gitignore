@@ -55,8 +55,8 @@ dmypy.json
 .env
 .env.local
 *.local
-.env_1
-.env.example
+
+.env_*
 
 
 .setupV1.md
